@@ -22,7 +22,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-# Questions API - Pagination POC
+# Questions API - Pagination POC - Nestjs pagination native query
 
 This repository contains a Proof of Concept (POC) demonstrating how to implement pagination using native SQL queries in a NestJS API. The project includes a structured approach with three layers: Controller, Service, and Repository. It leverages TypeORM for database management and demonstrates how to paginate data fetched directly from a PostgreSQL database using native queries.
 
